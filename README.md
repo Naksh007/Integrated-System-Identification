@@ -33,7 +33,7 @@ jupyter notebook notebooks/pendulum_analysis.ipynb
 - `outputs/` - saved plots and metrics
 - `requirements.txt` - Python dependencies
 
-## Resume-relevant points included in code/notebook
+## Conclusion
 - Analysed physics-informed features (`sin(theta)`, `theta`, `theta_dot`, `theta_dot^2`) to govern Pendulum equation using Ridge/ElasticNet regularization.
-- Implemented KNN (LOOCV), Logistic Regression, SVM, and LDA for classification (pass/fail and system stability).
+- Implemented KNN (LOOCV), Logistic Regression, SVM, and LDA for classification (pass/fail and system stability for Small-Large Angle regimes).
 - Validated network on the Rosenbrock function to demonstrate robustness of nonlinear fit (examples and MSE reported for synthetic small/large angle regimes).
