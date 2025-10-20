@@ -1,6 +1,6 @@
 # Pendulum Equation Discovery and Classification
 
-**Project objective:** Discover a governing equation for a pendulum from experimental data and apply classification models to assess system stability.
+**Project objective:** Discover a governing equation for a pendulum from experimental data and apply classification models to assess system stability (Also analyzing Small-Large Angle regimes).
 
 This repository contains:
 - A consolidated Jupyter notebook that implements **Ridge** and **Elastic Net** regression to model:
